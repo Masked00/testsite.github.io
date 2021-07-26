@@ -54,7 +54,7 @@ img{
 }
 
 .border_left{
-	background: #b61924;
+	background: #000000;
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -63,7 +63,7 @@ img{
 	z-index: 1000;
 }
 .border_bottom{
-	background: #b61924;
+	background: #000000;
 	position: fixed;
 	left: 0;
 	bottom: 0;
@@ -76,7 +76,7 @@ img{
 	padding: 7px 0;
 	text-align: center;
 	color: #fff;
-	background:#b61924;
+	background:#000000;
 	position: fixed;
 	right: 0;
 	bottom: 0;
